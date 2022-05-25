@@ -23,3 +23,6 @@
   **카운터의 자리수를 8자리로 출력**
   58행 for($a = 0; $a < 8 - strlen(strval($count)) ; $a++) echo "0"에서 방문 횟수를 8자리로 출력 하려면 8-1=7 자리를 0으로 출력.
   변수 값을 문자형으로 변환해주는 strval() 함수와 문자열 길이를 반환해주는 strlen() 이용합니다.
+![image](https://user-images.githubusercontent.com/102715143/170228854-29e3c802-3df1-4bbb-bdba-8cac65e41801.png)
+![image](https://user-images.githubusercontent.com/102715143/170228948-5de1ef5b-0e26-46d4-8cf4-eb50023e7b23.png)
+
